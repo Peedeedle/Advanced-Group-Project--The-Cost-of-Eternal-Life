@@ -18,6 +18,7 @@ TagManager:
   - BulletBlock
   - Buckshot
   - EnemyBlocker
+  - InstantDeath
   layers:
   - Default
   - TransparentFX
